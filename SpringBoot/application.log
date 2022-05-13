@@ -1,0 +1,6 @@
+2022-04-103 14:15:27.016 [INFO] [restartedMain] [c.i.e.EmployeePayrollAppBackEndApplication:55] Starting EmployeePayrollAppBackEndApplication using Java 17.0.1 on DESKTOP-2J0GT4E with PID 11644 (C:\Users\InfoGalaxy\IdeaProjects\EmployeePayrollAppBackEnd\target\classes started by InfoGalaxy in C:\Users\InfoGalaxy\IdeaProjects\EmployeePayrollAppBackEnd)
+2022-04-103 14:15:27.032 [DEBUG] [restartedMain] [c.i.e.EmployeePayrollAppBackEndApplication:56] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-103 14:15:27.032 [INFO] [restartedMain] [c.i.e.EmployeePayrollAppBackEndApplication:646] The following 1 profile is active: "PROD"
+2022-04-103 14:15:34.990 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-103 14:15:36.318 [INFO] [restartedMain] [c.i.e.EmployeePayrollAppBackEndApplication:61] Started EmployeePayrollAppBackEndApplication in 10.822 seconds (JVM running for 13.784)
+2022-04-103 14:15:36.334 [INFO] [restartedMain] [c.i.e.EmployeePayrollAppBackEndApplication:13] Employee Payroll App Service Started.
